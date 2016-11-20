@@ -1,13 +1,8 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
-// Heading
-$_['heading_title'] = 'Вихід з облікового запису';
+// Heading 
+$_['heading_title'] = 'Вихід з кабінета партнера';
 
 // Text
-$_['text_message']  = '<p>Ви вийшли з облікового запису.</p>';
-$_['text_account']  = 'Обліковий запис';
+$_['text_message']  = '<p>Ви вийшли з кабінета партнера.</p><p>Ваш кошик покупок був збережений. Він буде відновлений при наступному вході в особистий кабінет.</p>';
+$_['text_account']  = 'Кабінет партнера';
 $_['text_logout']   = 'Вихід';

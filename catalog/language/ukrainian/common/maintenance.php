@@ -1,12 +1,7 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
 // Heading
-$_['heading_title']    = 'Сайт на технічному обсліговуванні';
+$_['heading_title']    = 'Режим обслуговування';
 
 // Text
-$_['text_maintenance'] = 'Сайт знаходиться на технічному обслуговуванні';
-$_['text_message']     = '<h1 style="text-align:center;">В дания час ми проводимо планове технічне обслугоування. <br/>Сайт скоро відновить свою роботу. Будь-ласка зайдіть через деякий час.</h1>';
+$_['text_maintenance'] = 'Режим обслуговування';
+$_['text_message']     = '<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><h1 style="text-align:center;">На даний час магазин закрито на технічне обслуговування. <br/>Будь ласка, зайдіть пізніше!</h1><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>';

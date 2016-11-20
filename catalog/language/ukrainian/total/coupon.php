@@ -1,8 +1,14 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
+// Heading
+$_['heading_title'] = 'Використати купон на знижку';
 
 // Text
-$_['text_coupon'] = 'Купон (%s)';
+$_['text_coupon']   = 'Купон (%s)';
+$_['text_success']  = 'Код купону успішно прийнято. Підсумкова сума замовлення змінена!';
+
+// Entry
+$_['entry_coupon']  = 'Введіть код купону';
+
+// Error
+$_['error_coupon']  = 'Купон недійсний, прострочений або закінчився ліміт його використання!';
+$_['error_empty']   = 'Будь ласка, введіть код купону!';

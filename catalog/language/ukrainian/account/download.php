@@ -1,19 +1,14 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
 // Heading
-$_['heading_title']     = 'Завантаження облікового запису';
+$_['heading_title']   = 'Файли для завантаження';
 
 // Text
-$_['text_account']      = 'Обліковий запис';
-$_['text_downloads']    = 'Завантаження';
-$_['text_empty']        = 'У вас немає замовлень, які можна завантажити!';
+$_['text_account']    = 'Особистий кабінет';
+$_['text_downloads']  = 'Файли для завантаження';
+$_['text_empty']        = 'У Вас не було замовлень з файлами для завантаження!';
 
 // Column
-$_['column_order_id']   = 'Номер замовлення';
-$_['column_name']       = 'Назва';
-$_['column_size']       = 'Розмір';
-$_['column_date_added'] = 'Дата додавання';
+$_['column_order_id']   = '№ замовлення:';
+$_['column_name']       = 'Ім’я:';
+$_['column_size']       = 'Розмір:';
+$_['column_date_added'] = 'Дата додавання:';

@@ -1,29 +1,24 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
 // Heading
-$_['heading_title']     = 'Спеціальні пропозиції';
+$_['heading_title']     = 'Товари зі знижкою';
 
 // Text
-$_['text_empty']        = 'Зараз немає спеціальних пропозицій.';
-$_['text_quantity']     = 'Кількість:';
-$_['text_manufacturer'] = 'Бренд:';
-$_['text_model']        = 'Артикул:';
-$_['text_points']       = 'Бонусні бали:';
+$_['text_empty']        = 'В данний момент товари зі знижкою недоступні';
+$_['text_quantity']     = 'Кіль-ть:';
+$_['text_manufacturer'] = 'Виробник:';
+$_['text_model']        = 'Код товару:';
+$_['text_points']       = 'бонусні бали:';
 $_['text_price']        = 'Ціна:';
 $_['text_tax']          = 'Без ПДВ:';
-$_['text_compare']      = 'Порівняти товар (%s)';
-$_['text_sort']         = 'Сортувати за:';
+$_['text_compare']      = 'Порівняння товарів (%s)';
+$_['text_sort']         = 'Сортувати:';
 $_['text_default']      = 'За замовчуванням';
-$_['text_name_asc']     = 'Ім`я (A - Я)';
-$_['text_name_desc']    = 'Ім`я (Я - A)';
-$_['text_price_asc']    = 'Ціна (Низька)';
-$_['text_price_desc']   = 'Ціна (Висока)';
-$_['text_rating_asc']   = 'Рейтинг (Низький)';
-$_['text_rating_desc']  = 'Рейтинг (Високий)';
-$_['text_model_asc']    = 'Модель (A - Я)';
-$_['text_model_desc']   = 'Модель (Я - A)';
-$_['text_limit']        = 'Показати:';
+$_['text_name_asc']     = 'По імені (А -Я)';
+$_['text_name_desc']    = 'По імені (Я - А)';
+$_['text_price_asc']    = 'За ціною (зростання)';
+$_['text_price_desc']   = 'За ціною (спадання)';
+$_['text_rating_asc']   = 'За рейтингом (спадання)';
+$_['text_rating_desc']  = 'За рейтингом (зростання)';
+$_['text_model_asc']    = 'За моделлю (А - Я)';
+$_['text_model_desc']   = 'За моделлю (Я - А)';
+$_['text_limit']        = 'Показувати:';

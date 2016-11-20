@@ -1,32 +1,27 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
 // Heading
 $_['express_text_title']		= 'Підтвердити замовлення';
 
 // Text
-$_['text_title']				= 'PayPal Express оформлення';
+$_['text_title']				= 'PayPal Express Checkout';
 $_['button_continue']			= 'Продовжити';
 $_['text_cart']					= 'Кошик';
-$_['text_shipping_updated']		= 'Метод доставки змінено';
-$_['text_trial']				= '%s кожні %s %s для %s оплат тоді ';
-$_['text_recurring']			= '%s кожні %s %s';
-$_['text_recurring_item']		= 'Повторювані платежі';
-$_['text_length']				= ' для %s оплат';
+$_['text_shipping_updated']		= 'Службу доставки оновлено';
+$_['text_trial']				= '%s кожен %s %s з %s платежів тоді ';
+$_['text_recurring']			= '%s кожен %s %s';
+$_['text_recurring_item']		= 'Повторюваний елемент';
+$_['text_length']				= ' для %s платежів';
 
 // Entry
-$_['express_entry_coupon']		= 'Введіть Ваш купон тут:';
+$_['express_entry_coupon']		= 'введіть Ваш купон:';
 
 // Button
-$_['express_button_coupon']		= 'Додати';
-$_['express_button_confirm']	= 'Підтвердити';
-$_['express_button_login']		= 'Продовжити в PayPal';
-$_['express_button_shipping']	= 'Оновити доставку';
+$_['button_express_coupon']		= 'додати';
+$_['button_express_confirm']	= 'Підтвердити';
+$_['button_express_login']		= 'Продовжувати з PayPal';
+$_['button_express_shipping']	= 'оновити доставку';
 $_['button_cancel_recurring']	= 'Відмінити платежі';
 
 // Error
-$_['error_heading_title']		= 'Виникла помилка';
-$_['error_too_many_failures']	= 'Ваш платіж був невдалий занадто багато разів';
+$_['error_heading_title']		= 'Сталася помилка';
+$_['error_too_many_failures']	= 'Ваш платіж не вдалося виконати занадто багато разів';

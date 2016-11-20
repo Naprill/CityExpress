@@ -1,11 +1,7 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
 // Text
-$_['text_success'] = 'API сесія успішно розпочата!';
+$_['text_success'] = 'API сесія успішно запущена!';
 
 // Error
-$_['error_login']  = 'Ім`я і/чи пароль не співпадають.';
+$_['error_key']  = 'Увага: API ключ не дійсний!!';
+$_['error_ip']   = 'Увага: Ваша IP адреса %s не має доступу до API!';
