@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['text_title']				= 'Credit / Debit card (Realex)';
+$_['text_title']				= 'Кредитна або дебетова карта  (Realex)';
 
 // Button
-$_['button_confirm']			= 'Confirm';
+$_['button_confirm']			= 'Підтвердити';
 
 // Entry
-$_['entry_cc_type']				= 'Card Type';
+$_['entry_cc_type']				= 'Тип карти';
 
 // Text
-$_['text_success']				= 'Your payment has been authorised.';
-$_['text_decline']				= 'Your payment was unsuccessful';
-$_['text_bank_error']			= 'There was an error processing your request with the bank.';
-$_['text_generic_error']		= 'There was an error processing your request.';
-$_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as the payment status is unknown. Please contact the merchant.';
-$_['text_link']					= 'Please click <a href="%s">here</a> to continue';
-$_['text_select_card']			= 'Please select your card type';
-$_['text_result']				= 'Auth result';
-$_['text_message']				= 'Message';
-$_['text_cvn_result']			= 'CVN result';
-$_['text_avs_postcode']			= 'AVS postcode';
-$_['text_avs_address']			= 'AVS address';
-$_['text_eci']					= 'ECI (3D secure) result';
-$_['text_tss']					= 'TSS result';
-$_['text_order_ref']			= 'Order ref';
-$_['text_timestamp']			= 'Timestamp';
-$_['text_card_type']			= 'Card type';
-$_['text_card_digits']			= 'Card number';
-$_['text_card_exp']				= 'Card expire';
-$_['text_card_name']			= 'Card name';
+$_['text_success']				= 'Ваш платіж було дозволено.';
+$_['text_decline']				= 'Ваш платіж не пройшов';
+$_['text_bank_error']			= 'Сталася помилка при обробці Вашого запиту банком.';
+$_['text_generic_error']		= 'Сталася помилка при обробці Вашого запиту.';
+$_['text_hash_failed']			= 'Помилка перевірки хеша. Не намагайтеся ще раз провести платіж, доки статус оплати невідомий. Будь ласка, зконтактуйтесь з продавцем.';
+$_['text_link']					= 'Будь ласка, натисніть <a href="%s"> тут</a> для продовження';
+$_['text_select_card']			= 'Будь ласка, оберіть тип Вашої карти';
+$_['text_result']				= 'Результат авторизації';
+$_['text_message']				= 'Повідомлення';
+$_['text_cvn_result']			= 'CVN-результат';
+$_['text_avs_postcode']			= 'Поштовий індекс AVS';
+$_['text_avs_address']			= 'AVS адреса';
+$_['text_eci']					= 'Результат ECI (3D secure)';
+$_['text_tss']					= 'TSS результат';
+$_['text_order_ref']			= 'Посилання на замовлення';
+$_['text_timestamp']			= 'Штамп часу';
+$_['text_card_type']			= 'Тип карти';
+$_['text_card_digits']			= 'Номер карти';
+$_['text_card_exp']				= 'Строк дії карти';
+$_['text_card_name']			= 'Назва карти';
 $_['text_3d_s1']				= 'Cardholder Not Enrolled, liability shift';
 $_['text_3d_s2']				= 'Unable To Verify Enrolment, no liability shift';
 $_['text_3d_s3']				= 'Invalid Response From Enrolment Server, no liability shift';
@@ -39,6 +39,7 @@ $_['text_3d_s7']				= 'Incorrect Password Entered, no liability shift';
 $_['text_3d_s8']				= 'Authentication Unavailable, no liability shift';
 $_['text_3d_s9']				= 'Invalid Response From ACS, no liability shift';
 $_['text_3d_s10']				= 'RealMPI Fatal Error, no liability shift';
+$_['text_3d_liability']     	= 'No Liability Shift';
 $_['text_card_visa']			= 'Visa';
 $_['text_card_mc']				= 'Mastercard';
 $_['text_card_amex']			= 'American Express';

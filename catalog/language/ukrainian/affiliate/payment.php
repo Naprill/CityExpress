@@ -1,29 +1,24 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
-// Heading
+// Heading 
 $_['heading_title']             = 'Спосіб оплати';
 
 // Text
-$_['text_account']              = 'Рахунок';
-$_['text_payment']              = 'Платіж';
-$_['text_your_payment']         = 'Інформація про оплату';
+$_['text_account']              = 'Кабінет партнера';
+$_['text_payment']              = 'Оплата';
+$_['text_your_payment']         = 'Ваші перечислення';
 $_['text_your_password']        = 'Пароль';
 $_['text_cheque']               = 'Чек';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Банківський переказ';
-$_['text_success']              = 'Ваш обліковий запис успішно змінено.';
+$_['text_success']              = 'Облікові записи партнера успішно оновлено.';
 
 // Entry
-$_['entry_tax']                 = 'ІПН';
-$_['entry_payment']             = 'Спосіб оплати';
-$_['entry_cheque']              = 'Чек на ім`я';
-$_['entry_paypal']              = 'PayPal Email';
-$_['entry_bank_name']           = 'Назва банку';
-$_['entry_bank_branch_number']  = 'Номер ABA/BSB(Branch Number)';
-$_['entry_bank_swift_code']     = 'Код SWIFT';
-$_['entry_bank_account_name']   = 'Назва банківського рахунку';
-$_['entry_bank_account_number'] = 'Номер банківського рахунку';
+$_['entry_tax']                 = 'Податковий код:';
+$_['entry_payment']             = 'Спосіб оплати:';
+$_['entry_cheque']              = 'Чек, Ім’я отримувача платежу:';
+$_['entry_paypal']              = 'PayPal Email акаунт:';
+$_['entry_bank_name']           = 'Назва банку:';
+$_['entry_bank_branch_number']  = 'ABA/BSB номер (номер відділення):';
+$_['entry_bank_swift_code']     = 'SWIFT код:';
+$_['entry_bank_account_name']   = 'Назва рахунка:';
+$_['entry_bank_account_number'] = 'Номер рахунка:';

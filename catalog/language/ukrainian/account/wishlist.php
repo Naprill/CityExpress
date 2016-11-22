@@ -1,26 +1,20 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
-// Heading
-$_['heading_title'] = 'Мій список бажань';
+// Heading 
+$_['heading_title'] = 'Мої закладки';
 
 // Text
-$_['text_account']  = 'Обліковий запис';
-$_['text_instock']  = 'На складі';
-$_['text_wishlist'] = 'Список бажань (%s)';
-$_['text_login']    = 'Ви мусите <a href="%s">увійти</a> чи <a href="%s">створити обліковий запис</a> для збереження <a href="%s">%s</a> Вашого <a href="%s">списку бажань</a>!';
-$_['text_success']  = 'Ви успішно додали <a href="%s">%s</a> до Вашого <a href="%s">списку бажань</a>!';
-$_['text_exists']   = '<a href="%s">%s</a> вже додано до Вашого <a href="%s">списку бажань</a>!';
-$_['text_remove']   = 'Ви успішно змінили список бажань!';
-$_['text_empty']    = 'Ваш список бажать порожній.';
+$_['text_account']  = 'Особистий кабінет';
+$_['text_instock']  = 'В наявності';
+$_['text_wishlist'] = 'Закладки (%s)';
+$_['text_login']    = 'Необхідно увійти в <a href="%s">Особистий кабінет</a> або <a href="%s">створити обліковий запис</a>, щоб додати товар <a href="%s">%s</a> у свої <a href="%s">закладки</a>!';
+$_['text_success']  = 'Товар <a href="%s">%s</a> успішно додано в <a href="%s">закладки</a>!';
+$_['text_remove']   = 'Список закладок успішно оновлено!';
+$_['text_empty']    = 'Ваші закладки порожні';
 
 // Column
 $_['column_image']  = 'Зображення';
 $_['column_name']   = 'Назва товару';
 $_['column_model']  = 'Модель';
-$_['column_stock']  = 'Наявність';
-$_['column_price']  = 'Ціна за одиницю';
+$_['column_stock']  = 'На складі';
+$_['column_price']  = 'Ціна';
 $_['column_action'] = 'Дія';

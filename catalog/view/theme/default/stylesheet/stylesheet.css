@@ -1,13 +1,13 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
-	color: #666;
-	font-size: 12px;
+	background-color: #4d0000;
+	font-size: 18px;
 	line-height: 20px;
 	width: 100%;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: #444;
+	color: #fdeadc;
 }
 /* default font size */
 .fa {
@@ -128,7 +128,9 @@ div.required .control-label:before {
 }
 /* search */
 #search {
-	margin-bottom: 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-right: 0;
 }
 #search .input-lg {
 	height: 40px;
@@ -138,21 +140,24 @@ div.required .control-label:before {
 #search .btn-lg {
 	font-size: 15px;
 	line-height: 18px;
-	padding: 10px 35px;
+	padding: 10px 25px;
 	text-shadow: 0 1px 0 #FFF;
+	width: 5px;
 }
 /* cart */
 #cart {
-	margin-bottom: 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
 }
 #cart > .btn {
 	font-size: 12px;
 	line-height: 18px;
+	background: #600;
 	color: #FFF;
 }
 #cart.open > .btn {
 	background-image: none;
-	background-color: #FFFFFF;
+	background-color: antiquewhite;
 	border: 1px solid #E6E6E6;
 	color: #666;
 	box-shadow: none;
@@ -190,10 +195,7 @@ div.required .control-label:before {
 }
 /* menu */
 #menu {
-	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
-	background-repeat: repeat-x;
-	border-color: #1f90bb #1f90bb #145e7a;
+	background-color: darksalmon;
 	min-height: 40px;
 }
 #menu .nav > li > a {
@@ -306,30 +308,33 @@ div.required .control-label:before {
 /* content */
 #content {
 	min-height: 600px;
+	color: #fdeadc;
 }
 /* footer */
 footer {
 	margin-top: 30px;
 	padding-top: 30px;
-	background-color: #303030;
+	background-color: #330000;
 	border-top: 1px solid #ddd;
-	color: #e2e2e2;
+	color: wheat;
+	font-size: 15px;
+	height:220px;
 }
 footer hr {
 	border-top: none;
 	border-bottom: 1px solid #666;
 }
 footer a {
-	color: #ccc;
+	color: #fdeadc;
 }
 footer a:hover {
-	color: #fff;
+	color: #fdeadc;
 }
 footer h5 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	font-weight: bold;
-	color: #fff;
+	color: #fdeadc;
 }
 /* alert */
 .alert {
