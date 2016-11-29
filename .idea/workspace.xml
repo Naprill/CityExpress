@@ -1,157 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96d37a5c-dfce-4a5e-a67b-63005421cef6" name="Default" comment="appearance like CityExpress :)">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/catalog/sil_6395.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.country.1479585961" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.country.status.1479587422" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.currency.1479585961" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.language.1479585961" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.stock_status.3.1479584146" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.store.1479586197" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.tax_class.1479584146" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.zone.220.1479585961" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/language/ukrainian/default.php" afterPath="$PROJECT_DIR$/admin/language/ukrainian/ukrainian.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/catalog/logo.png" afterPath="$PROJECT_DIR$/image/catalog/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/cityexpress.iml" afterPath="$PROJECT_DIR$/.idea/cityexpress.iml" />
+    <list default="true" id="96d37a5c-dfce-4a5e-a67b-63005421cef6" name="Default" comment="add ukrainian language and other changes,&#10;&#10;by Nina">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/banners/MacBookAir-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/banners/iPhone6-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-80x80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_3-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_3-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_4-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_5-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_6-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_nano_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_shuffle_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_touch_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_touch_4-80x80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_1-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_2-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_2-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_3-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_3-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_4-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_4-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_5-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_5-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_pro_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/burgerking-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/canon-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/cocacola-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/dell-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/disney-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/harley-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nfl-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nintendo-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/redbull-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/sony-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/starbucks-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_4-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_5-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_6-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_7-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/picaveganska-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/picaveganska-45x45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/pizza1-100x100.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/pizza1-130x100.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/zastavka-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/zastavka-1140x380.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/picaveganska.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/pizza1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/zastavka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/currency.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/captcha/basic_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/captcha/google_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/ebay_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/amazon_login_pay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/bluepay_hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/g2apay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/globalpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/globalpay_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/qiwi_rest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/sberbank_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/skrill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/by_total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/ukrainian.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/account.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/address.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/address.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/download.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/download.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/edit.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/forgotten.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/forgotten.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/login.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/logout.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/logout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/newsletter.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/newsletter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/order.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/order.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/password.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/password.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/recurring.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/recurring.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/register.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/return.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/return.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/reward.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/reward.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/success.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/success.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/transaction.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/transaction.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/voucher.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/voucher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/account/wishlist.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/account/wishlist.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/account.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/edit.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/forgotten.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/forgotten.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/login.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/logout.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/logout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/password.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/password.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/payment.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/payment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/register.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/success.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/success.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/tracking.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/tracking.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/transaction.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/affiliate/transaction.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/cart.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/coupon.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/coupon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/customer.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/customer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/login.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/order.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/order.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/payment.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/payment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/reward.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/reward.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/shipping.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/shipping.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/api/voucher.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/voucher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/checkout/cart.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/checkout/cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/checkout/checkout.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/checkout/checkout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/checkout/failure.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/checkout/failure.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/checkout/success.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/checkout/success.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/common/cart.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/common/cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/common/currency.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/common/currency.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/common/footer.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/common/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/common/header.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/common/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/common/language.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/common/language.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/common/maintenance.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/common/maintenance.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/common/search.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/common/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/error/not_found.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/error/not_found.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/information/contact.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/information/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/information/information.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/information/information.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/information/sitemap.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/information/sitemap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/mail/affiliate.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/mail/affiliate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/mail/customer.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/mail/customer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/mail/forgotten.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/mail/forgotten.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/mail/order.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/mail/order.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/mail/review.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/mail/review.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/mail/voucher.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/mail/voucher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/account.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/affiliate.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/affiliate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/bestseller.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/bestseller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/category.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/filter.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/filter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/google_hangouts.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/google_hangouts.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/information.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/information.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/latest.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/latest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/special.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/special.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/module/store.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/store.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/openbay/ebay_order.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/openbay/ebay_order.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/authorizenet_aim.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/authorizenet_aim.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/authorizenet_sim.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/authorizenet_sim.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/bank_transfer.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/bank_transfer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/bluepay_redirect.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/bluepay_redirect.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/cheque.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/cheque.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/cod.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/cod.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/firstdata.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/firstdata.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/firstdata_remote.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/firstdata_remote.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/free_checkout.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/free_checkout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/klarna_account.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/klarna_account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/klarna_invoice.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/klarna_invoice.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/liqpay.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/liqpay.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/nochex.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/nochex.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/paymate.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/paymate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/paypoint.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/paypoint.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/payza.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/payza.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/perpetual_payments.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/perpetual_payments.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_express.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_express.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_payflow.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_payflow.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_payflow_iframe.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_payflow_iframe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_pro.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_pro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_pro_iframe.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_pro_iframe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_standard.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/pp_standard.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/realex.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/realex.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/realex_remote.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/realex_remote.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/sagepay_direct.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/sagepay_direct.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/sagepay_server.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/sagepay_server.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/sagepay_us.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/sagepay_us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/securetrading_pp.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/securetrading_pp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/securetrading_ws.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/securetrading_ws.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/twocheckout.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/twocheckout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/web_payment_software.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/web_payment_software.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/payment/worldpay.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/worldpay.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/product/category.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/product/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/product/compare.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/product/compare.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/product/manufacturer.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/product/manufacturer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/product/product.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/product/product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/product/search.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/product/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/product/special.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/product/special.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/auspost.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/auspost.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/citylink.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/citylink.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/fedex.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/fedex.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/flat.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/flat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/free.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/free.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/item.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/item.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/parcelforce_48.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/parcelforce_48.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/pickup.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/pickup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/royal_mail.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/royal_mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/ups.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/ups.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/usps.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/usps.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/weight.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/weight.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/tool/upload.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/tool/upload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/coupon.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/coupon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/credit.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/credit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/handling.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/handling.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/klarna_fee.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/klarna_fee.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/low_order_fee.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/low_order_fee.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/reward.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/reward.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/sub_total.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/sub_total.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/total.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/total.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/ukrainian/total/voucher.php" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/voucher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" afterPath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" />
     </list>
     <ignored path="cityexpress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -172,47 +94,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="36234" selection-start-line="4" selection-start-column="36234" selection-end-line="4" selection-end-column="36234" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/product/product.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-              <folding>
-                <marker date="1459508076000" expanded="true" signature="25360:25367" ph="×" />
-                <marker date="1459508076000" expanded="true" signature="26214:26228" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-799">
+            <state relative-caret-position="17">
               <caret line="200" column="21" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="1785">
+              <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/startup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="23" />
               <folding>
-                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1459508076000" expanded="true" signature="754:961" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1459508076000" expanded="true" signature="1002:1208" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1459508076000" expanded="true" signature="1392:1536" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+                <marker date="1459508076000" expanded="true" signature="3424:3517" ph="DELETE FROM " />
+                <marker date="1459508076000" expanded="true" signature="3544:3880" ph="SELECT DISTI... ${DB_PREFIX}api" />
+                <marker date="1459508076000" expanded="true" signature="4445:4505" ph="SELECT * FRO... ${DB_PREFIX}language" />
+                <marker date="1459508076000" expanded="true" signature="7851:7887" ph="SELECT * FRO... ${DB_PREFIX}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google_captcha.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/captcha/google_captcha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic_captcha.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/basic_captcha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="8" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google_captcha.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/google_captcha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="8" selection-end-column="68" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -227,11 +192,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl">
+      <file leaf-file-name="basic_captcha.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/captcha/basic_captcha.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -257,6 +222,10 @@
         <option value="$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php" />
         <option value="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" />
         <option value="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/catalog/language/ukrainian/captcha/basic_captcha.php" />
+        <option value="$PROJECT_DIR$/catalog/language/ukrainian/captcha/google_captcha.php" />
       </list>
     </option>
   </component>
@@ -302,6 +271,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -317,20 +287,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -361,182 +317,6 @@
               <option name="myItemId" value="catalog" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheet" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -582,7 +362,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
+              <option name="myItemId" value="captcha" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -632,41 +412,19 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheet" />
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="dell.png&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/manufacturer/dell-130x100.png&#10;cart.php&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/library/cart.php&#10;decimal&#9;null&#9;null&#10;russian&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/install_/language/russian/russian.php&#10;text_&#9;null&#9;null&#10;ефи_&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/samsung_tab_1-228x228.jpg&#10;tab_&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="startup.&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/startup.php&#10;dell.png&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/manufacturer/dell-130x100.png&#10;cart.php&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/library/cart.php&#10;decimal&#9;null&#9;null&#10;russian&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/install_/language/russian/russian.php&#10;text_&#9;null&#9;null&#10;ефи_&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/samsung_tab_1-228x228.jpg&#10;tab_&#9;null&#9;null" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -730,35 +488,48 @@
       <option name="presentableId" value="Default" />
       <updated>1479580769292</updated>
       <workItem from="1479580770495" duration="5367000" />
-      <workItem from="1479648428505" duration="15532000" />
+      <workItem from="1479648428505" duration="15661000" />
+      <workItem from="1479796523538" duration="3131000" />
+      <workItem from="1479893831959" duration="1816000" />
+      <workItem from="1480060409031" duration="10000" />
+      <workItem from="1480191484359" duration="718000" />
+      <workItem from="1480442491038" duration="2245000" />
     </task>
+    <task id="LOCAL-00001" summary="appearance like CityExpress :)">
+      <created>1479668139049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479668139049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20899000" />
+    <option name="totallyTimeSpent" value="28948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28214827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="false" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" x="0" y="273" width="1362" height="222" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37423313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -793,117 +564,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="appearance like CityExpress :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="appearance like CityExpress :)" />
+    <MESSAGE value="add ukrainian language and other changes,&#10;&#10;by Nina" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ukrainian language and other changes,&#10;&#10;by Nina" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin/language/ukrainian/ukrainian.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/model/catalog/review.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1459508076000" expanded="true" signature="167:466" ph="INSERT INTO ${DB_PREFIX}review... " />
-            <marker date="1459508076000" expanded="true" signature="2786:3319" ph="SELECT r.rev... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="3453:3855" ph="SELECT COUNT... ${DB_PREFIX}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/model/catalog/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1459508076000" expanded="true" signature="296:2939" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="2098:2235" ph="SELECT AVG(r... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="2249:2383" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="5315:6233" ph="SELECT p.pro... " />
-            <marker date="1459508076000" expanded="true" signature="5337:5474" ph="SELECT AVG(r... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="10911:11715" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="10943:11072" ph="SELECT AVG(r... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="13081:13372" ph="SELECT p.pro... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="13887:14193" ph="SELECT p.pro... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="14734:15244" ph="SELECT op.pr... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="15810:16366" ph="SELECT ag.at... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="16537:17109" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="17812:18159" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="18318:18795" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="20209:20558" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="20668:20782" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="20921:21294" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="21534:21696" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="21870:21966" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="25617:25907" ph="SELECT * FRO... ${DB_PREFIX}recurring" />
-            <marker date="1459508076000" expanded="true" signature="26045:26537" ph="SELECT `pd`.... ${DB_PREFIX}product_recurring" />
-            <marker date="1459508076000" expanded="true" signature="26625:27195" ph="SELECT COUNT... ${DB_PREFIX}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/common/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/model/catalog/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1459508076000" expanded="true" signature="123:564" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="673:1140" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="1276:1378" ph="SELECT filte... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="1563:2040" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="2170:2559" ph="SELECT DISTI... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="3084:3249" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1459508076000" expanded="true" signature="3443:3723" ph="SELECT COUNT... ${DB_PREFIX}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/common/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/common/language.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/google_hangouts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/latest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,7 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,7 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -975,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -983,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,15 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-62">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/google_captcha.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,7 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,15 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/basic_captcha.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1119,9 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1459508076000" expanded="true" signature="289:368" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1129,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,9 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1459508076000" expanded="true" signature="207:225" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1147,7 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1155,7 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1456">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,7 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1189,25 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <marker date="1459508076000" expanded="true" signature="741:747" ph="©" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36234" selection-start-line="4" selection-start-column="36234" selection-end-line="4" selection-end-column="36234" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1215,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1230,14 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-799">
-          <caret line="200" column="21" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1246,13 +836,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl">
+    <entry file="file://$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36234" selection-start-line="4" selection-start-column="36234" selection-end-line="4" selection-end-column="36234" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="200" column="21" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/common/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2034">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/common/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1983">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/startup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="23" />
           <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1459508076000" expanded="true" signature="754:961" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1459508076000" expanded="true" signature="1002:1208" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1459508076000" expanded="true" signature="1392:1536" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+            <marker date="1459508076000" expanded="true" signature="3424:3517" ph="DELETE FROM " />
+            <marker date="1459508076000" expanded="true" signature="3544:3880" ph="SELECT DISTI... ${DB_PREFIX}api" />
+            <marker date="1459508076000" expanded="true" signature="4445:4505" ph="SELECT * FRO... ${DB_PREFIX}language" />
+            <marker date="1459508076000" expanded="true" signature="7851:7887" ph="SELECT * FRO... ${DB_PREFIX}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/google_captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/basic_captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/captcha/google_captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/captcha/basic_captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
