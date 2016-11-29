@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="96d37a5c-dfce-4a5e-a67b-63005421cef6" name="Default" comment="appearance like CityExpress :)">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/13190664-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/13190664-130x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/1434694893_1434520590_1.-l.jg-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/1434694893_1434520590_1.-l.jg-130x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/30583_600-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/30e_retsepty_s_klubnikoy_depositphotos_64404167-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/30e_retsepty_s_klubnikoy_depositphotos_64404167-130x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/5-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/5-130x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/a74b0ec743a6fcbaeaac12c6b42307aa-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/a74b0ec743a6fcbaeaac12c6b42307aa-130x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/beznazvanija-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/beznazvanija-130x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/beznazvanija-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/beznazvanija-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/beznazvanija-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/cakesdesktopwallpapers-008-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/cakesdesktopwallpapers-008-130x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/cheesecakes-684-1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/cheesecakes-684-1-130x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-80x80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/imac_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_pro_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/canon-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/cocacola-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/dell-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/disney-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/harley-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nintendo-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/sony-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/starbucks-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/13190664.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/1434694893_1434520590_1.-l.jg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/30583_600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/30e_retsepty_s_klubnikoy_depositphotos_64404167.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/a74b0ec743a6fcbaeaac12c6b42307aa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/beznazvanija.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/cakesdesktopwallpapers-008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/cheesecakes-684-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.currency.1480406707" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.language.1480408412" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.length_class.3.1480405456" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.order_status.3.1480408408" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.stock_status.3.1480405456" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.store.1480408408" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.tax_class.1480405456" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.weight_class.3.1480405456" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" afterPath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" />
     <list default="true" id="96d37a5c-dfce-4a5e-a67b-63005421cef6" name="Default" comment="add ukrainian language and other changes,&#10;&#10;by Nina">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/banners/MacBookAir-100x100.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/banners/iPhone6-100x100.jpg" />
@@ -74,6 +127,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/shipping.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/ukrainian.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config.php" afterPath="$PROJECT_DIR$/admin/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
     </list>
     <ignored path="cityexpress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,9 +149,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
       <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <marker date="1479904372521" expanded="true" signature="551:610" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1479904372521" expanded="true" signature="2342:2383" ph="SELECT * FRO... ${DB_PREFIX}language" />
+                <marker date="1479904372521" expanded="true" signature="3252:3288" ph="SELECT * FRO... ${DB_PREFIX}" />
+              </folding>
             <state relative-caret-position="17">
               <caret line="200" column="21" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
               <folding />
@@ -243,7 +307,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -423,6 +487,9 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="dell.png&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/manufacturer/dell-130x100.png&#10;cart.php&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/library/cart.php&#10;decimal&#9;null&#9;null&#10;russian&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/install_/language/russian/russian.php&#10;text_&#9;null&#9;null&#10;ефи_&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/samsung_tab_1-228x228.jpg&#10;tab_&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="startup.&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/startup.php&#10;dell.png&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/manufacturer/dell-130x100.png&#10;cart.php&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/library/cart.php&#10;decimal&#9;null&#9;null&#10;russian&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/install_/language/russian/russian.php&#10;text_&#9;null&#9;null&#10;ефи_&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/samsung_tab_1-228x228.jpg&#10;tab_&#9;null&#9;null" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
@@ -488,6 +555,11 @@
       <option name="presentableId" value="Default" />
       <updated>1479580769292</updated>
       <workItem from="1479580770495" duration="5367000" />
+      <workItem from="1479648428505" duration="15532000" />
+      <workItem from="1479930769567" duration="27000" />
+      <workItem from="1479942459431" duration="289000" />
+      <workItem from="1480055763426" duration="1609000" />
+      <workItem from="1480404975198" duration="496000" />
       <workItem from="1479648428505" duration="15661000" />
       <workItem from="1479796523538" duration="3131000" />
       <workItem from="1479893831959" duration="1816000" />
@@ -507,16 +579,22 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="28948000" />
+    <option name="totallyTimeSpent" value="23320000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21961933" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28214827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="false" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" x="0" y="273" width="1362" height="222" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37423313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -824,6 +902,26 @@
           <folding>
             <marker date="1459508076000" expanded="true" signature="25360:25367" ph="×" />
             <marker date="1459508076000" expanded="true" signature="26214:26228" ph="..." />
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479904372521" expanded="true" signature="551:610" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1479904372521" expanded="true" signature="2342:2383" ph="SELECT * FRO... ${DB_PREFIX}language" />
+            <marker date="1479904372521" expanded="true" signature="3252:3288" ph="SELECT * FRO... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479904372521" expanded="true" signature="551:610" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1479904372521" expanded="true" signature="2342:2383" ph="SELECT * FRO... ${DB_PREFIX}language" />
+            <marker date="1479904372521" expanded="true" signature="3252:3288" ph="SELECT * FRO... ${DB_PREFIX}" />
           </folding>
         </state>
       </provider>
@@ -840,10 +938,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="36234" selection-start-line="4" selection-start-column="36234" selection-end-line="4" selection-end-column="36234" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -868,6 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         <state relative-caret-position="34">
           <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
           <folding />
@@ -902,10 +1002,28 @@
             <marker date="1459508076000" expanded="true" signature="3544:3880" ph="SELECT DISTI... ${DB_PREFIX}api" />
             <marker date="1459508076000" expanded="true" signature="4445:4505" ph="SELECT * FRO... ${DB_PREFIX}language" />
             <marker date="1459508076000" expanded="true" signature="7851:7887" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1479904372521" expanded="true" signature="551:610" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1479904372521" expanded="true" signature="2342:2383" ph="SELECT * FRO... ${DB_PREFIX}language" />
+            <marker date="1479904372521" expanded="true" signature="3252:3288" ph="SELECT * FRO... ${DB_PREFIX}" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
