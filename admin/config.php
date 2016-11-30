@@ -8,18 +8,18 @@ define('HTTPS_SERVER', 'http://cityexpress/admin/');
 define('HTTPS_CATALOG', 'http://cityexpress/');
 
 // DIR
-define('DIR_APPLICATION', 'E:/OpenServer/domains/cityexpress/admin/');
-define('DIR_SYSTEM', 'E:/OpenServer/domains/cityexpress/system/');
-define('DIR_LANGUAGE', 'E:/OpenServer/domains/cityexpress/admin/language/');
-define('DIR_TEMPLATE', 'E:/OpenServer/domains/cityexpress/admin/view/template/');
-define('DIR_CONFIG', 'E:/OpenServer/domains/cityexpress/system/config/');
-define('DIR_IMAGE', 'E:/OpenServer/domains/cityexpress/image/');
-define('DIR_CACHE', 'E:/OpenServer/domains/cityexpress/system/storage/cache/');
-define('DIR_DOWNLOAD', 'E:/OpenServer/domains/cityexpress/system/storage/download/');
-define('DIR_LOGS', 'E:/OpenServer/domains/cityexpress/system/storage/logs/');
-define('DIR_MODIFICATION', 'E:/OpenServer/domains/cityexpress/system/storage/modification/');
-define('DIR_UPLOAD', 'E:/OpenServer/domains/cityexpress/system/storage/upload/');
-define('DIR_CATALOG', 'E:/OpenServer/domains/cityexpress/catalog/');
+define('DIR_APPLICATION', 'C:/OpenServer/domains/cityexpress/admin/');
+define('DIR_SYSTEM', 'C:/OpenServer/domains/cityexpress/system/');
+define('DIR_LANGUAGE', 'C:/OpenServer/domains/cityexpress/admin/language/');
+define('DIR_TEMPLATE', 'C:/OpenServer/domains/cityexpress/admin/view/template/');
+define('DIR_CONFIG', 'C:/OpenServer/domains/cityexpress/system/config/');
+define('DIR_IMAGE', 'C:/OpenServer/domains/cityexpress/image/');
+define('DIR_CACHE', 'C:/OpenServer/domains/cityexpress/system/storage/cache/');
+define('DIR_DOWNLOAD', 'C:/OpenServer/domains/cityexpress/system/storage/download/');
+define('DIR_LOGS', 'C:/OpenServer/domains/cityexpress/system/storage/logs/');
+define('DIR_MODIFICATION', 'C:/OpenServer/domains/cityexpress/system/storage/modification/');
+define('DIR_UPLOAD', 'C:/OpenServer/domains/cityexpress/system/storage/upload/');
+define('DIR_CATALOG', 'C:/OpenServer/domains/cityexpress/catalog/');
 
 // DB
 define('DB_DRIVER', 'mysqli');

@@ -54,6 +54,78 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.tax_class.1480405456" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/storage/cache/cache.weight_class.3.1480405456" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" afterPath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" />
+    <list default="true" id="96d37a5c-dfce-4a5e-a67b-63005421cef6" name="Default" comment="add ukrainian language and other changes,&#10;&#10;by Nina">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/banners/MacBookAir-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/banners/iPhone6-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_2-80x80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_3-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_3-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_4-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_5-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_6-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_nano_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_shuffle_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_touch_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_touch_4-80x80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_1-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_2-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_2-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_3-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_3-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_4-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_4-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_5-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_5-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_pro_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/burgerking-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/canon-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/cocacola-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/dell-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/disney-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/harley-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nfl-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/nintendo-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/redbull-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/sony-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/manufacturer/starbucks-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_3-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_4-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_5-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_6-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_7-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/picaveganska-100x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/picaveganska-45x45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/pizza1-100x100.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/pizza1-130x100.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/zastavka-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/zastavka-1140x380.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/picaveganska.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/pizza1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/catalog/zastavka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/api/currency.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/captcha/basic_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/captcha/google_captcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/module/ebay_listing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/amazon_login_pay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/bluepay_hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/g2apay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/globalpay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/globalpay_remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/qiwi_rest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/sberbank_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/payment/skrill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/shipping/by_total.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/total/shipping.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/ukrainian/ukrainian.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config.php" afterPath="$PROJECT_DIR$/admin/config.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
@@ -79,6 +151,8 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -87,6 +161,107 @@
                 <marker date="1479904372521" expanded="true" signature="2342:2383" ph="SELECT * FRO... ${DB_PREFIX}language" />
                 <marker date="1479904372521" expanded="true" signature="3252:3288" ph="SELECT * FRO... ${DB_PREFIX}" />
               </folding>
+            <state relative-caret-position="17">
+              <caret line="200" column="21" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/startup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <marker date="1459508076000" expanded="true" signature="754:961" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1459508076000" expanded="true" signature="1002:1208" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1459508076000" expanded="true" signature="1392:1536" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+                <marker date="1459508076000" expanded="true" signature="3424:3517" ph="DELETE FROM " />
+                <marker date="1459508076000" expanded="true" signature="3544:3880" ph="SELECT DISTI... ${DB_PREFIX}api" />
+                <marker date="1459508076000" expanded="true" signature="4445:4505" ph="SELECT * FRO... ${DB_PREFIX}language" />
+                <marker date="1459508076000" expanded="true" signature="7851:7887" ph="SELECT * FRO... ${DB_PREFIX}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google_captcha.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/captcha/google_captcha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic_captcha.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/basic_captcha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="8" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google_captcha.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/google_captcha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="8" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="featured.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic_captcha.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/captcha/basic_captcha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,6 +286,10 @@
         <option value="$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php" />
         <option value="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" />
         <option value="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/catalog/language/ukrainian/captcha/basic_captcha.php" />
+        <option value="$PROJECT_DIR$/catalog/language/ukrainian/captcha/google_captcha.php" />
       </list>
     </option>
   </component>
@@ -185,20 +364,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="image" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -216,182 +381,6 @@
               <option name="myItemId" value="catalog" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheet" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -437,7 +426,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
+              <option name="myItemId" value="captcha" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -487,29 +476,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cityexpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheet" />
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -523,6 +490,8 @@
     <property name="SearchEverywhereHistoryKey" value="dell.png&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/manufacturer/dell-130x100.png&#10;cart.php&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/library/cart.php&#10;decimal&#9;null&#9;null&#10;russian&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/install_/language/russian/russian.php&#10;text_&#9;null&#9;null&#10;ефи_&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/samsung_tab_1-228x228.jpg&#10;tab_&#9;null&#9;null" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="startup.&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/startup.php&#10;dell.png&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/manufacturer/dell-130x100.png&#10;cart.php&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/system/library/cart.php&#10;decimal&#9;null&#9;null&#10;russian&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/install_/language/russian/russian.php&#10;text_&#9;null&#9;null&#10;ефи_&#9;FILE&#9;file://C:/OpenServer/domains/cityexpress/image/cache/catalog/demo/samsung_tab_1-228x228.jpg&#10;tab_&#9;null&#9;null" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -591,10 +560,25 @@
       <workItem from="1479942459431" duration="289000" />
       <workItem from="1480055763426" duration="1609000" />
       <workItem from="1480404975198" duration="496000" />
+      <workItem from="1479648428505" duration="15661000" />
+      <workItem from="1479796523538" duration="3131000" />
+      <workItem from="1479893831959" duration="1816000" />
+      <workItem from="1480060409031" duration="10000" />
+      <workItem from="1480191484359" duration="718000" />
+      <workItem from="1480442491038" duration="2245000" />
     </task>
+    <task id="LOCAL-00001" summary="appearance like CityExpress :)">
+      <created>1479668139049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479668139049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28948000" />
     <option name="totallyTimeSpent" value="23320000" />
   </component>
   <component name="ToolWindowManager">
@@ -602,12 +586,18 @@
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21961933" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28214827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="false" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" x="0" y="273" width="1362" height="222" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37423313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -652,13 +642,266 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="appearance like CityExpress :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="appearance like CityExpress :)" />
+    <MESSAGE value="add ukrainian language and other changes,&#10;&#10;by Nina" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ukrainian language and other changes,&#10;&#10;by Nina" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/latest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/information/information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/information/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/information/sitemap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/common/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/information/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/affiliate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/bestseller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/featured.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/google_hangouts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/latest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/special.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/account/voucher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/checkout/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/checkout/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/checkout/success.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/common/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/common/currency.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/checkout/failure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/information/information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/common/maintenance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/javascript/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/information/information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1456">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/module/information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/module/slideshow.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/common/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/stylesheet/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/product/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <marker date="1459508076000" expanded="true" signature="25360:25367" ph="×" />
+            <marker date="1459508076000" expanded="true" signature="26214:26228" ph="..." />
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -680,6 +923,14 @@
             <marker date="1479904372521" expanded="true" signature="2342:2383" ph="SELECT * FRO... ${DB_PREFIX}language" />
             <marker date="1479904372521" expanded="true" signature="3252:3288" ph="SELECT * FRO... ${DB_PREFIX}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -691,10 +942,66 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="200" column="21" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/common/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2034">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/common/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1983">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/module/featured.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/startup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="23" />
           <folding>
+            <marker date="1459508076000" expanded="true" signature="754:961" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1459508076000" expanded="true" signature="1002:1208" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1459508076000" expanded="true" signature="1392:1536" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+            <marker date="1459508076000" expanded="true" signature="3424:3517" ph="DELETE FROM " />
+            <marker date="1459508076000" expanded="true" signature="3544:3880" ph="SELECT DISTI... ${DB_PREFIX}api" />
+            <marker date="1459508076000" expanded="true" signature="4445:4505" ph="SELECT * FRO... ${DB_PREFIX}language" />
+            <marker date="1459508076000" expanded="true" signature="7851:7887" ph="SELECT * FRO... ${DB_PREFIX}" />
             <marker date="1479904372521" expanded="true" signature="551:610" ph="SELECT * FRO... ${DB_PREFIX}" />
             <marker date="1479904372521" expanded="true" signature="2342:2383" ph="SELECT * FRO... ${DB_PREFIX}language" />
             <marker date="1479904372521" expanded="true" signature="3252:3288" ph="SELECT * FRO... ${DB_PREFIX}" />
@@ -717,5 +1024,53 @@
         </settings>
       </state>
     </states>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/google_captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/russian/captcha/basic_captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/captcha/google_captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/ukrainian/captcha/basic_captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
