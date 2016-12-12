@@ -2,7 +2,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	background-color: #990000;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 20px;
 	width: 100%;
 }
@@ -33,12 +33,15 @@ h6 {
 	font-size: 10.2px;
 }
 a {
-	color: #23a1d1;
+	color: white;
+    font-size: larger;
 }
 a:hover {
+    color:sandybrown;
 	text-decoration: none;
 }
 legend {
+    color: #0b0b0b;
 	font-size: 18px;
 	padding: 7px 0px
 }
@@ -167,7 +170,8 @@ div.required .control-label:before {
 	color: #444;
 }
 #cart .dropdown-menu {
-	background: #eee;
+    color: #0b0b0b;
+    background-color: #953b39 ;
 	z-index: 1001;
 }
 #cart .dropdown-menu {
@@ -309,8 +313,12 @@ div.required .control-label:before {
 #content {
 	min-height: 600px;
 	color: black;
-
 }
+#content p {
+    font-size: 18px;
+    color: sandybrown;
+}
+
 /* footer */
 footer {
 	margin-top: 30px;
@@ -343,6 +351,7 @@ footer h5 {
 }
 /* breadcrumb */
 .breadcrumb {
+    background-color: #953b39;
 	margin: 0 0 20px 0;
 	padding: 8px 0;
 	border: 1px solid #ddd;
@@ -501,13 +510,10 @@ footer h5 {
 }
 /* list group */
 .list-group a {
-	border: 1px solid #DDDDDD;
-	color: #888888;
 	padding: 8px 12px;
 }
 .list-group a.active, .list-group a.active:hover, .list-group a:hover {
-	color: #444444;
-	background: #eeeeee;
+	background: darksalmon;
 	border: 1px solid #DDDDDD;
 	text-shadow: 0 1px 0 #FFF;
 }
@@ -632,8 +638,8 @@ h2.price {
 	border: none;
 	display: inline-block;
 	float: left;
-	background-color: #eee;
-	color: #888;
+	background-color: antiquewhite;
+	color: saddlebrown;
 	line-height: 38px;
 	font-weight: bold;
 	text-align: center;
