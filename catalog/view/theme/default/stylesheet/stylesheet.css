@@ -1,13 +1,13 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
-	background-color: #4d0000;
+	background-color: #990000;
 	font-size: 18px;
 	line-height: 20px;
 	width: 100%;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: #fdeadc;
+	color: black;
 }
 /* default font size */
 .fa {
@@ -308,7 +308,7 @@ div.required .control-label:before {
 /* content */
 #content {
 	min-height: 600px;
-	color: #fdeadc;
+	color: black;
 }
 /* footer */
 footer {
